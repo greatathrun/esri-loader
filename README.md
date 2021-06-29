@@ -1,4 +1,4 @@
-# 简洁
+# 简介
 
 用于加载流行的 JS 开发框架。
 对于 4.18版本的（ 4.x 版本？）的，可以 install ArcGIS 核心包 和使用 ES-modules 取代 esri-loader ！
